@@ -1,67 +1,19 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-28 15:35:57 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
+      "unlock_right_away": "2025-06-28 18:45:28 -0400"
     },
     "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_ender_eye": "2025-06-28 15:38:59 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
+      "has_ender_eye": "2025-06-28 18:46:47 -0400"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_ender_eye": "2025-06-28 15:38:59 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-28 15:43:26 -0400"
-    },
-    "done": true
-  },
-  "custom:enter_1_loading_bay": {
-    "criteria": {
-      "enter_1_loading_bay": "2025-06-28 15:36:31 -0400"
+      "has_ender_eye": "2025-06-28 18:46:47 -0400"
     },
     "done": true
   },
