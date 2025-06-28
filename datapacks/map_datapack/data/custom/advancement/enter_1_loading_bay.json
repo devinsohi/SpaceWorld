@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "enter_1_loading_bay": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "position": {
+              "x": {
+                "min": 3,
+                "max": 15
+              },
+              "y": {
+                "min": 40,
+                "max": 43
+              },
+              "z": {
+                "min": 17,
+                "max": 25
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_1_loading_bay"
+    ]
+  ],
+  "rewards": {
+    "function": "custom:enter_room/enter_1_loading_bay"
+  }
+}
