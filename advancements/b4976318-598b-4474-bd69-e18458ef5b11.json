@@ -1,19 +1,7 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-28 18:45:28 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-06-28 18:46:47 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-06-28 18:46:47 -0400"
+      "unlock_right_away": "2025-06-28 19:02:26 -0400"
     },
     "done": true
   },
